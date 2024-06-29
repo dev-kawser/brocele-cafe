@@ -5,7 +5,7 @@ const router = createBrowserRouter([
     {
         path: "/",
         element:
-            <div className="bg-[#FFEDD8] h-screen poppins">
+            <div className="bg-[#FFEDD8] min-h-screen poppins">
                 <Home />
             </div>,
     },

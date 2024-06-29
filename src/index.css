@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
-.poppins{
-    font-family: 'Poppins', sans-serif!important;
+.poppins {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.text-color{
+    color: #583101;
 }

@@ -25,7 +25,7 @@ const Navbar = () => {
     return (
         <div className='lg:mx-10 mx-2'>
             <nav className="flex items-center justify-between px-4  text-black mb-24">
-                <div className="scale-100 cursor-pointer rounded-2xl px-3 py-2 text-xl font-semibold transition-all duration-200 hover:scale-110">
+                <div className="scale-100 cursor-pointer rounded-2xl px-3 py-2 text-xl font-semibold transition-all duration-700 hover:scale-110">
                     <img className='lg:w-full w-36' src={navLogo} alt="logo" />
                 </div>
                 <ul className="hidden items-center justify-between gap-10 md:flex uppercase">
